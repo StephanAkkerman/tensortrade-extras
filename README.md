@@ -39,7 +39,7 @@ An unofficial Python API to use the Binance Websocket APIs.\
 https://github.com/oliver-zehentleitner/unicorn-binance-websocket-api
 
 # Reward calculation
-Differential Sharpe Ratio (DSR)\
+Differential Sharpe Ratio (DSR) calculation.\
 https://github.com/AchillesJJ/DSR
 
 # Data
