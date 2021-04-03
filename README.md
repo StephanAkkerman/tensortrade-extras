@@ -1,5 +1,6 @@
 # Technical Analysis
 TA-lib, for more technical analysis compared to ta library.
+
 https://github.com/mrjbq7/ta-lib
 
 Pandas Technical Analysis (Pandas TA) is an easy to use library that leverages the Pandas library with more than 130 Indicators and Utility functions.
