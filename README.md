@@ -53,6 +53,9 @@ https://github.com/zhivko/tensortrade/tree/master/examples/myexample
 Kodiak's example.\
 https://colab.research.google.com/drive/1N0gZhsiXT7vwHN__FoX8an-AqxJDSfak
 
+Msrparadesi's notebook example with SageMaker Studio.\
+https://github.com/msrparadesi/tensortrade/blob/master/examples/TensorTrade_on_SageMaker_Studio.ipynb
+
 # Research
 Part one of 8ball030's research of technical analysis indicators.\
 https://github.com/8ball030/FTXIndicators
