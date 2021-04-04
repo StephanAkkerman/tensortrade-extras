@@ -44,7 +44,7 @@ My simple script for fetching data, using the Binance API. There are more time f
 https://github.com/StephanAkkerman/BinanceExtras/blob/master/BinanceData.py
 
 # Ray
-Custom stopping mechanisms to stop trials early.\ 
+Custom stopping mechanisms to stop trials early.\
 https://docs.ray.io/en/master/tune/api_docs/stoppers.html
 
 Example of how to use custom metrics.\
