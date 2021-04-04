@@ -40,7 +40,7 @@ Differential Sharpe Ratio (DSR) calculation.\
 https://github.com/AchillesJJ/DSR
 
 # Data
-My simple script for fetching the latest 4h candles, using the Binance API.\
+My simple script for fetching data, using the Binance API. There are more time frames possible compared to data of CryptoDataDownload.\
 https://github.com/StephanAkkerman/BinanceExtras/blob/master/BinanceData.py
 
 # Ray
@@ -50,10 +50,10 @@ https://docs.ray.io/en/master/tune/api_docs/stoppers.html
 Example of how to use custom metrics.\
 https://github.com/ray-project/ray/blob/master/rllib/examples/custom_metrics_and_callbacks.py
 
-Trial Schedulers can early terminate bad trials, pause trials, clone trials, and alter hyperparameters of a running trial.
+Trial Schedulers can early terminate bad trials, pause trials, clone trials, and alter hyperparameters of a running trial.\
 https://docs.ray.io/en/master/tune/api_docs/schedulers.html
 
-Tune’s Search Algorithms are wrappers around open-source optimization libraries for efficient hyperparameter selection.
+Tune’s Search Algorithms are wrappers around open-source optimization libraries for efficient hyperparameter selection.\
 https://docs.ray.io/en/master/tune/api_docs/suggestion.html
 
 # Examples
