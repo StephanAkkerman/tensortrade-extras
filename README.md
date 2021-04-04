@@ -57,10 +57,10 @@ Tune’s Search Algorithms are wrappers around open-source optimization librarie
 https://docs.ray.io/en/master/tune/api_docs/suggestion.html
 
 # Examples
-Zhivko's example.\
+Zhivko's examples, including implementation of training and evaluation environments in after.py.\
 https://github.com/zhivko/tensortrade/tree/master/examples/myexample
 
-Kodiak's example.\
+Kodiak's notebook example, including implementation of feature correlation and Optuna search algorithm.\
 https://colab.research.google.com/drive/1N0gZhsiXT7vwHN__FoX8an-AqxJDSfak
 
 Msrparadesi's notebook example with SageMaker Studio.\
