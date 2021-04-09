@@ -25,6 +25,9 @@ https://github.com/kernc/backtesting.py/
 Visualizer for pandas data structures.\
 https://github.com/man-group/dtale
 
+TensorBoard for visualizing results.\
+https://github.com/tensorflow/tensorboard
+
 # Live Trading
 A JavaScript / Python / PHP library for cryptocurrency trading and e-commerce with support for many bitcoin/ether/altcoin exchange markets and merchant APIs.\
 https://github.com/ccxt/ccxt
@@ -55,6 +58,12 @@ https://docs.ray.io/en/master/tune/api_docs/schedulers.html
 
 Tune’s Search Algorithms are wrappers around open-source optimization libraries for efficient hyperparameter selection.\
 https://docs.ray.io/en/master/tune/api_docs/suggestion.html
+
+Customizing Exploration Behavior.\
+https://docs.ray.io/en/master/rllib-training.html#customizing-exploration-behavior
+
+Curiosity plugin as exploration behavior.\
+https://docs.ray.io/en/master/rllib-algorithms.html#curiosity
 
 # Examples
 Zhivko's examples, including implementation of training and evaluation environments in after.py.\
