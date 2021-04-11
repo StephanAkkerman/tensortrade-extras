@@ -28,7 +28,7 @@ https://github.com/man-group/dtale
 TensorBoard for visualizing results.\
 https://github.com/tensorflow/tensorboard
 
-Use W&B to organize and analyze machine learning experiments. It's framework-agnostic and lighter than TensorBoard.
+Use W&B to organize and analyze machine learning experiments. It's framework-agnostic and lighter than TensorBoard.\
 https://github.com/wandb/client
 
 # Live Trading
