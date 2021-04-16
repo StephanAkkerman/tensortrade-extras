@@ -69,6 +69,9 @@ Curiosity plugin as exploration behavior.\
 https://docs.ray.io/en/master/rllib-algorithms.html#curiosity
 
 # Examples
+My own example, including benchmarks to compare net worth performance, and fetching data from Binance.
+https://github.com/StephanAkkerman/TensorTrade/blob/main/TT_v4.py
+
 Zhivko's examples, including implementation of training and evaluation environments in after.py.\
 https://github.com/zhivko/tensortrade/tree/master/examples/myexample
 
