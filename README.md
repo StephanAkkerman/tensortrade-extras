@@ -90,3 +90,6 @@ https://github.com/8ball030/indicator_part_2
 
 List of code, papers, and resources for AI/deep learning/machine learning/neural networks applied to algorithmic trading.\
 https://github.com/cbailes/awesome-deep-trading
+
+List of portfolio management resources, using Reinforcement Learning.\
+https://github.com/Draichi/Portfolio-Management-list
