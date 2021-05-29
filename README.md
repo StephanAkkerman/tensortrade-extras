@@ -47,7 +47,7 @@ https://github.com/AchillesJJ/DSR
 
 # Data
 My simple script for fetching data, using the Binance API. There are more time frames possible compared to data of CryptoDataDownload.\
-https://github.com/StephanAkkerman/BinanceExtras/blob/master/BinanceData.py
+https://github.com/StephanAkkerman/BinanceData
 
 # Ray
 Custom stopping mechanisms to stop trials early.\
