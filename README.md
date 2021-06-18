@@ -41,6 +41,9 @@ https://github.com/sammchardy/python-binance
 An unofficial Python API to use the Binance Websocket APIs.\
 https://github.com/oliver-zehentleitner/unicorn-binance-websocket-api
 
+The unofficial Python client for the Coinbase Pro API.\
+https://github.com/danpaquin/coinbasepro-python
+
 # Reward calculation
 Differential Sharpe Ratio (DSR) calculation.\
 https://github.com/AchillesJJ/DSR
@@ -67,6 +70,10 @@ https://docs.ray.io/en/master/rllib-training.html#customizing-exploration-behavi
 
 Curiosity plugin as exploration behavior.\
 https://docs.ray.io/en/master/rllib-algorithms.html#curiosity
+
+# Stocks
+Yahoo! Finance market data downloader, if you want to train your model on stock data.\
+https://github.com/ranaroussi/yfinance
 
 # Examples
 My own example, including benchmarks to compare net worth performance, and fetching data from Binance.
