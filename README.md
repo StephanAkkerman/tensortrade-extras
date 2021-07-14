@@ -52,6 +52,9 @@ https://github.com/AchillesJJ/DSR
 My simple script for fetching data, using the Binance API. There are more time frames possible compared to data of CryptoDataDownload.\
 https://github.com/StephanAkkerman/BinanceData
 
+My newer script for fetching data, using ccxt instead of Binance API to use more exchanges. It works the same as BinanceData, but supports more exchanges.\
+https://github.com/StephanAkkerman/Crypto_OHLCV
+
 # Ray
 Custom stopping mechanisms to stop trials early.\
 https://docs.ray.io/en/master/tune/api_docs/stoppers.html
