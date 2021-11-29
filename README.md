@@ -55,6 +55,9 @@ https://github.com/StephanAkkerman/BinanceData
 My newer script for fetching data, using ccxt instead of Binance API to use more exchanges. It works the same as BinanceData, but supports more exchanges.\
 https://github.com/StephanAkkerman/Crypto_OHLCV
 
+Official Binance repo for getting their public data.\
+https://github.com/binance/binance-public-data
+
 # Ray
 Custom stopping mechanisms to stop trials early.\
 https://docs.ray.io/en/master/tune/api_docs/stoppers.html
