@@ -5,6 +5,9 @@ https://github.com/mrjbq7/ta-lib
 Pandas Technical Analysis (Pandas TA) is an easy to use library that leverages the Pandas library with more than 130 Indicators and Utility functions.\
 https://github.com/twopirllc/pandas-ta
 
+Unofficial TradingView technical analysis API wrapper.\
+https://github.com/brian-the-dev/python-tradingview-ta
+
 # Renderers
 Tensortrade_dashboard, to visualize trades in simulation runs.\
 https://github.com/mitcheccles/tensortrade_dashboard
