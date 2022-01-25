@@ -97,6 +97,12 @@ https://colab.research.google.com/drive/1N0gZhsiXT7vwHN__FoX8an-AqxJDSfak
 Msrparadesi's notebook example with SageMaker Studio.\
 https://github.com/msrparadesi/tensortrade/blob/master/examples/TensorTrade_on_SageMaker_Studio.ipynb
 
+Matthew Brulhardt's simple example how to trade on a basic sine curve using TensorTrade and Ray.\
+https://github.com/mwbrulhardt/simple-sine-curve
+
+Matthew Brulhardt's example for making highly customized environments in TensorTrade.\
+https://github.com/mwbrulhardt/penv
+
 # Research
 Part one of 8ball030's research of technical analysis indicators.\
 https://github.com/8ball030/FTXIndicators
