@@ -90,6 +90,9 @@ https://github.com/ranaroussi/yfinance
 Python client for Alpaca's trade API.\
 https://github.com/alpacahq/alpaca-trade-api-python
 
+A python wrapper for Alpha Vantage API for financial data.\
+https://github.com/RomelTorres/alpha_vantage
+
 # Examples
 My own example, including benchmarks to compare net worth performance, and fetching data from Binance.
 https://github.com/StephanAkkerman/TensorTrade/blob/main/TT_v4.py
