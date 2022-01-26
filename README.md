@@ -61,6 +61,9 @@ https://github.com/StephanAkkerman/Crypto_OHLCV
 Official Binance repo for getting their public data.\
 https://github.com/binance/binance-public-data
 
+A Python 3 script to harvest data from the Binance socket stream and calculate popular TA indicators and produce lists of top trending coins storing data in an SQLite3 database for use by algorithmic and bot traders.\
+https://github.com/declasm/binance_harvester
+
 # Ray
 Custom stopping mechanisms to stop trials early.\
 https://docs.ray.io/en/master/tune/api_docs/stoppers.html
@@ -83,6 +86,9 @@ https://docs.ray.io/en/master/rllib-algorithms.html#curiosity
 # Stocks
 Yahoo! Finance market data downloader, if you want to train your model on stock data.\
 https://github.com/ranaroussi/yfinance
+
+Python client for Alpaca's trade API.\
+https://github.com/alpacahq/alpaca-trade-api-python
 
 # Examples
 My own example, including benchmarks to compare net worth performance, and fetching data from Binance.
