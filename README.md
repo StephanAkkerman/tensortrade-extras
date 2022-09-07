@@ -1,6 +1,6 @@
 # Technical Analysis
 - [TA-lib](https://github.com/mrjbq7/ta-lib): For more technical analysis compared to ta library.
-- [Pandas Technical Analysis (Pandas TA)](https://github.com/twopirllc/pandas-ta) is an easy to use library that leverages the Pandas library with more than 130 Indicators and Utility functions.
+- [Pandas Technical Analysis (Pandas TA)](https://github.com/twopirllc/pandas-ta): An easy to use library that leverages the Pandas library with more than 130 Indicators and Utility functions.
 - [Unofficial TradingView technical analysis API wrapper](https://github.com/brian-the-dev/python-tradingview-ta)
 
 # Renderers
@@ -12,7 +12,7 @@
 - [SHAP (SHapley Additive exPlanations)](https://github.com/slundberg/shap): A game theoretic approach to explain the output of any machine learning model.
 - [Backtest trading strategies with Python](https://github.com/kernc/backtesting.py)
 - [Visualizer for pandas data structures](https://github.com/man-group/dtale)
-- [TensorBoard](https://github.com/tensorflow/tensorboard) For visualizing a TensorTrade model's output.
+- [TensorBoard](https://github.com/tensorflow/tensorboard): For visualizing a TensorTrade model's output.
 - [Weights & Biases](https://github.com/wandb/client): Use W&B to organize and analyze machine learning experiments. It's framework-agnostic and lighter than TensorBoard.
 
 # Live Trading
