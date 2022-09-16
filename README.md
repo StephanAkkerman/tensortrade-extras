@@ -36,7 +36,7 @@
 - [Schedulers](https://docs.ray.io/en/master/tune/api_docs/schedulers.html): Trial Schedulers can early terminate bad trials, pause trials, clone trials, and alter hyperparameters of a running trial.
 - [Tune’s Search Algorithms](https://docs.ray.io/en/master/tune/api_docs/suggestion.html): Wrappers around open-source optimization libraries for efficient hyperparameter selection.
 - [Customizing Exploration Behavior](https://docs.ray.io/en/master/rllib-training.html#customizing-exploration-behavior)
-- [Curiosity plugin as exploration behavior]: https://docs.ray.io/en/master/rllib-algorithms.html#curiosity
+- [Curiosity plugin as exploration behavior](https://docs.ray.io/en/master/rllib-algorithms.html#curiosity)
 
 # Stocks
 - [Yahoo Finance API](https://github.com/ranaroussi/yfinance): Yahoo! Finance market data downloader, if you want to train your model on stock data.
